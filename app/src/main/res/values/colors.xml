@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00d1c1</color>
+    <color name="colorPrimaryDark">#00bbad</color>
+    <color name="colorAccent">#00d1c1</color>
+    <color name="colorPrimaryLight">#FFFFFF</color>
+    <color name="colorPrimaryText">#ffffff</color>
+    <color name="colorSecondaryText">#757575</color>
+    <color name="colorDivider">#BDBDBD</color>
+    <color name="colorBag">#FFFFFF</color>
+    <color name="bg_login">#26ae90</color>
+        <color name="bg_register">#2e3237</color>
+        <color name="bg_main">#428bca</color>
+        <color name="white">#ffffff</color>
+        <color name="input_login">#222222</color>
+        <color name="input_login_hint">#999999</color>
+        <color name="input_register">#FFFFFF</color>
+        <color name="input_register_bg">#3d4b5e</color>
+        <color name="input_register_hint">#5e6266</color>
+        <color name="btn_login">#26ae90</color>
+        <color name="btn_login_bg">#eceef1</color>
+        <color name="lbl_name">#333333</color>
+        <color name="btn_logut_bg">#ff6861</color>
+    <color name="snackBarBackgroundColor">#333333</color>
+    <color name="snackBarColorNotificationSuccess">#333333</color>
+    <color name="splashBack" >#00d1c1</color>
+<color name="profileback">#f7f7f7</color>
+<color name="textfont">#505862</color>
+    <color name="material_login_register_color">#00bbad</color>
+    <color name="material_login_login_error_color">#ff6861</color>
+    <color name="material_login_register_error_color">#ff6861</color>
+</resources>

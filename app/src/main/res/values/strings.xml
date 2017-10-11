@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Placement Portal</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="copy_right">Copyrights Team webbies ©%1$d</string>
+    <string-array name="ProfileList">
+        <item>View Your Courses</item>
+
+        <item>Contact Us</item>
+        <item>Log Out</item>
+
+    </string-array>
+</resources>

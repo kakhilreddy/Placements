@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cse.jntu.placements">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_INTERNAL_STORAGE" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".DashBoard" />
+        <activity android:name=".SignUp" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".InterviewExperiences"
+            android:parentActivityName=".DashBoard" />
+        <activity
+            android:name=".tips"
+            android:parentActivityName=".DashBoard" />
+        <activity
+            android:name=".QA"
+            android:parentActivityName=".DashBoard" />
+        <activity android:name=".Prepare" />
+        <activity android:name=".About" />
+        <activity android:name=".InterviewView" />
+        <activity android:name=".QuestionView" />
+        <activity android:name=".TipView" />
+        <activity
+            android:name=".Company"
+            android:parentActivityName=".DashBoard" />
+        <activity android:name=".CompanyView" />
+        <activity
+            android:name=".PrepareView"
+            android:parentActivityName=".Prepare" />
+        <activity android:name=".PrepareContent"></activity>
+    </application>
+
+</manifest>

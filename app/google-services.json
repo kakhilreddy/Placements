@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313608710415",
+    "firebase_url": "https://placements-bece5.firebaseio.com",
+    "project_id": "placements-bece5",
+    "storage_bucket": "placements-bece5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313608710415:android:4644febd97ce5799",
+        "android_client_info": {
+          "package_name": "com.cse.jntu.placements"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313608710415-csafklimr9229canp496hldk6aqe27ga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cse.jntu.placements",
+            "certificate_hash": "e3b49e34b42ec061325f339f47c3877a61949ba5"
+          }
+        },
+        {
+          "client_id": "313608710415-2mmen9ce4qm4ueog1if1ahpq5mkbb1ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLLVJdSNXeyyyZyniHSDwlkE6ZCnwjlIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313608710415-2mmen9ce4qm4ueog1if1ahpq5mkbb1ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
